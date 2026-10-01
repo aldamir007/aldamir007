@@ -1,22 +1,69 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&left=true&width=500&height=70&duration=4000&lines=Opa+👋;+eu+sou+o;ADM!;" />
+<h1 align="center">
+  👋 Olá, eu sou Aldamir Filho!
 </h1>
 
+<h3 align="center">
+  💻 Desenvolvedor em formação | 🎮 Gamer | 🚀 Entusiasta de tecnologia
+</h3>
 
-- 🔭 Atualmente curso Informática no Instituto Federal do Ceará
-- 🌱 Estudando Python, Java, JavaScript
-- ⚡ Apaixonado por futebol
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Bem-vindo+ao+meu+GitHub!;Construindo+projetos+e+aprendendo+todos+os+dias!;Código%2C+tecnologia+e+criatividade+🚀" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aldamir007&show_icons=true&theme=dracula&count_private=true"/><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldamir007&theme=dracula"/><br>
-  <img height="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aldamir007&layout=compact&langs_count=16&theme=dracula"/>
-</a>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+## 🧑‍💻 Sobre mim
 
-## 
+- 🎓 Estudante de Informática
+- 🌱 Atualmente aprendendo desenvolvimento web e programação
+- 💻 Estudando JavaScript, Python e Java
+- 🚀 Gosto de aprender criando projetos na prática
+- 🎮 Apaixonado por tecnologia e jogos
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🎮 GameHub
+
+Um catálogo de jogos desenvolvido para estudar e praticar desenvolvimento web.
+
+**Tecnologias utilizadas:**
+
+`Node.js` `Express` `EJS` `JavaScript` `HTML` `CSS`
+
+🔗 **[Ver projeto no GitHub](https://github.com/aldamir007/gamehub)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aldamir007&show_icons=true&theme=dracula&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aldamir007&theme=dracula" />
+</p>
+
+---
+
+## 🎯 Atualmente
+
+```text
+📚 Estudando programação
+💻 Desenvolvendo projetos
+🌱 Aprendendo novas tecnologias
+🚀 Evoluindo um pouco todos os dias
